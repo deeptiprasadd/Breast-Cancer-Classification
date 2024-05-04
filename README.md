@@ -25,11 +25,11 @@ j) fractal dimension ("coastline approximation" - 1)
 The mean, standard error and "worst" or largest (mean of the three
 largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is the Mean Radius, field 13 is the Radius SE, and field 23 is the Worst Radius. All feature values are recorded with four significant digits. Missing attribute values: none. Class distribution: 357 benign, 212 malignant
 
--Work Flow: 
+-Work Flow:-
 DataSet(data collection)
-Data Preprocessing
-Train Test Split
-Logistic Regression(Machine Learning Model)
+-->Data Preprocessing
+-->Train Test Split
+-->Logistic Regression(Machine Learning Model)
 
 
 
