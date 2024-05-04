@@ -5,7 +5,7 @@ Breast cancer is a kind of cancer that begins with the growth of cells in the br
 Types Of Tumor We Are Working On- Benign and Malignant 
 
 -**About Dataset:**
-Link: Breast Cancer Wisconsin (Diagnostic) Data Set (kaggle.com)
+![Link](Breast Cancer Wisconsin (Diagnostic) Data Set (kaggle.com))
 Features are computed from a digitised image of a breast mass's fine needle aspirate (FNA). They describe the characteristics of the cell nuclei present in the image.
 Attribute Information:
 1) ID number
@@ -29,7 +29,7 @@ largest values) of these features were computed for each image, resulting in 30 
 >DataSet(data collection)
 >Data Preprocessing
 >Train Test Split
->>Logistic Regression(Machine Learning Model)
+>Logistic Regression(Machine Learning Model)
 
 
 
