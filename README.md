@@ -7,8 +7,7 @@ Signs of breast cancer may include a lump in the breast, a change in breast shap
 
 Types Of Tumor We Are Working On- Benign and Malignant 
 
--**About Dataset:**
-![Link](Breast Cancer Wisconsin (Diagnostic) Data Set (kaggle.com))
+-**About Dataset: ![Link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)**
 Features are computed from a digitised image of a breast mass's fine needle aspirate (FNA). They describe the characteristics of the cell nuclei present in the image.
 Attribute Information:
 1) ID number
