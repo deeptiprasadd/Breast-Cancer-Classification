@@ -5,7 +5,7 @@ Breast cancer is a kind of cancer that begins with the growth of cells in the br
 ![image](https://github.com/deeptiprasadd/Breast-Cancer-Classification/assets/111698372/7ee6854a-38bb-4569-876c-bb23554f2bdd)  <br />
 Signs of breast cancer may include a lump in the breast, a change in breast shape, dimpling of the skin, milk rejection, fluid coming from the nipple, a newly inverted nipple, or a red or scaly patch of skin. In those with a distant spread of the disease, there may be bone pain, swollen lymph nodes, shortness of breath, or yellow skin.
 
-Types Of Tumor We Are Working On- <br />
+***Types Of Tumor We Are Working On-*** <br />
 Benign and Malignant 
 
 -**About Dataset:** <br />
